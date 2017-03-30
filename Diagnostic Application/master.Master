@@ -1,0 +1,195 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master.master.cs" Inherits="Diagnostic_Application.master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <!-- boostrap -->
+    <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet"/>
+    <link href="css/style.css" type="text/css" rel="stylesheet"/>
+    <!-- font-awesome -->
+    <!-- script files -->
+     <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Content/bootstrap-datepicker.css" rel="stylesheet" />
+</head>
+<body>
+    <body style="background: white">
+   
+     <div class="header_section">
+            <div class="container">
+                
+               <div class="row">
+                    <div class="HeaderRigon">
+                        
+                          <div class="col-sm-4 Himage">
+                        
+                            <img class="img-responsive header_log"  src="/images/logo.png" /> 
+                        
+                          </div> 
+                        
+
+                        <div class="col-sm-4 Hmiddle">
+                          <h3>  <a href="Default.aspx"> Diagnostic Center Bill Management System</a>
+                        
+                            </h3>
+                        </div> 
+                  
+                    <div class="col-sm-4">
+                        <div class="mainmenu">
+                            <ul>
+                                <li><a href="">Home</a></li>
+                                <li><a href="">Service</a></li>
+                                <li><a href="">Login</a></li>
+                            </ul>
+                        </div>
+                    </div> 
+                  </div> 
+               </div>
+               
+                  </div> 
+            </div> 
+          <div class="body_area">
+              
+              <div class="container">
+                  
+                      
+                  <div class="row">
+                     
+      <table>
+          <tr>
+                      <div class="col-md-4 leftarea">
+                        <ul id="nav">
+                       <ul> <a href="TestTypeSetupUI.aspx" class="join_now">Test Type Setup</a></ul>
+                       <ul> <a href="TestSetupUI.aspx" class="join_now">Test Setup</a></ul>
+                        <ul> <a href="TestRequestEntryUI.aspx" class="join_now">Test Request Entry</a></ul>
+                        <ul> <a href="PaymentUI.aspx" class="join_now">Payment</a></ul>
+                        <ul> <a href="TestWiseReport.aspx" class="join_now">Test Wise Report</a></ul>
+                        <ul> <a href="TypeWiseReport.aspx" class="join_now">Type Wise Report</a></ul>
+                       <ul>  <a href="UnPaidBillWiseReport.aspx" class="join_now">Unpaid Bill Report</a></ul>
+                    </ul>
+                          
+                      </div>
+                     
+            </tr>
+          <tr>
+                      <div class="col-md-8 rightarea">
+                    
+                         
+                                  
+                           <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+                      </div>
+    </tr>
+    </table>
+                  </div>
+                  
+              </div>
+            
+          </div>
+          <div class="footer_area">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-md-4">
+                                <div class="foot_col1">
+                        <h5>Useful Resources</h5>
+                        <div class="foot_pad">
+                            <ul class="ls">
+                               <li><a href="#">Free Website Templates</a></li>
+                                    <li><a href="#">Free Flash Templates</a></li>
+                                    <li><a href="#">Easy Flash Templates</a></li>
+                                    <li><a href="#">Top Hosting Providers</a></li>
+                                    <li><a href="#">Free Fonts</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                      </div>
+
+                       <div class="col-md-4">
+                            <div class="foot_col2">
+                        <h5>Share with Others</h5>
+                        <div class="foot_pad">
+                            <div class="link1" > <img src="/images/fu_i1.png" /> <a  href="#">Subscribe to Blog</a></div>
+                            <div class="link2"> <img src="/images/link2.png" /> <a href="#">Be a fan on Facebook</a></div>
+                            <div class="link3"> <img src="/images/link3.png" /> <a src="/images/logo.png" href="#">RSS Feed</a></div>
+                            <div class="link4"> <img src="/images/link4.png" /> <a src="/images/logo.png" href="#">Follow us on Twitter</a></div>
+                        </div>
+                    </div>
+                      </div>
+                       <div class="col-md-4">
+                          <div class="foot_col3">
+                        <h5>Our Address</h5>
+                        <div class="foot_pad">
+                            <a href="#"><img src="images/location.jpg" alt="" title="" style="padding-top: 5px;"/></a>
+                        </div>
+                    </div>
+                      </div>
+                  </div>
+                  
+
+              </div>
+
+          </div>
+
+    <!-- /container -->
+        <script src="Scripts/bootstrap-datepicker.js"></script>
+    
+    <script type="text/javascript" src="/js/Scripts/jquery-3.1.1.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="/js/custom-script.js"></script>
+    <%--<script>
+        $(document).ready(function () {
+
+            $('#DateOfBirthTextBox').datepicker({
+                format: "dd-mm-yyyy",
+                weekStart: 6,
+                daysOfWeekDisabled: "5",
+                daysOfWeekHighlighted: "6",
+                autoclose: true,
+                todayHighlight: true
+            });
+            $("#ourForm").validate({
+                rules: {
+                    name: {
+                        required: true,
+                        minlength: 3
+                    },
+                    email: {
+                        required: true,
+                        email: true
+                    },
+                    password: {
+                        required: true,
+                        maxlength: 8
+                    },
+                    confirmPassword: {
+                        required: true,
+                        maxlength: 8,
+                        equalTo: "#password"
+                    }
+                },
+                messages: {
+                    name: {
+                        required: "Must be provided",
+                        minlength: "Must be at least 3 characters long"
+                    },
+                    email: {
+                        required: "Must be given your Email ID",
+                        email: "it needs to be abc@def.ch"
+                    },
+                    password: {
+                        required: "Must be given",
+                        maxlength: "Must be below 8 characters"
+                    },
+                    confirmPassword: {
+                        required: "Must be given",
+                        maxlength: "Must be below 8 characters",
+                        equalTo: "Did not match with above Password"
+                    }
+                }
+            });
+        });
+    </script>--%>
+</body>
+</html>

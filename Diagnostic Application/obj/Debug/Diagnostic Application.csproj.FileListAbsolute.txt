@@ -1,0 +1,138 @@
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\roslyn\csc.exe
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\roslyn\System.Collections.Immutable.dll
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\roslyn\System.Reflection.Metadata.dll
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\roslyn\vbc.exe
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\roslyn\VBCSCompiler.exe
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\roslyn\VBCSCompiler.exe.config
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\Diagnostic Application.dll.config
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\Diagnostic Application.dll
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\Diagnostic Application.pdb
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\obj\Debug\Diagnostic Application.csprojResolveAssemblyReference.cache
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\obj\Debug\Diagnostic Application.dll
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\obj\Debug\Diagnostic Application.pdb
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\itextsharp.dll
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\itextsharp.xml
+F:\work\DOTNET\BITM-Project\Diagnostic Application\Diagnostic Application\bin\itextsharp.pdfa.dll
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\roslyn\csc.exe
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\roslyn\vbc.exe
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\roslyn\VBCSCompiler.exe
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\Diagnostic Application.dll.config
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\Diagnostic Application.dll
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\Diagnostic Application.pdb
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\itextsharp.dll
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\itextsharp.pdfa.dll
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\itextsharp.xml
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\obj\Debug\Diagnostic Application.csprojResolveAssemblyReference.cache
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\obj\Debug\Diagnostic Application.dll
+C:\Users\abs.jabed\Downloads\BITM-Diagostic-Bill-Management-System-master\BITM-Diagostic-Bill-Management-System-master\Diagnostic Application\obj\Debug\Diagnostic Application.pdb
+G:\Diag\Diagnostic Application\bin\roslyn\csc.exe
+G:\Diag\Diagnostic Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Diag\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Diag\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Diag\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Diag\Diagnostic Application\bin\roslyn\System.Collections.Immutable.dll
+G:\Diag\Diagnostic Application\bin\roslyn\System.Reflection.Metadata.dll
+G:\Diag\Diagnostic Application\bin\roslyn\vbc.exe
+G:\Diag\Diagnostic Application\bin\roslyn\VBCSCompiler.exe
+G:\Diag\Diagnostic Application\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Diag\Diagnostic Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Diag\Diagnostic Application\bin\roslyn\VBCSCompiler.exe.config
+G:\Diag\Diagnostic Application\bin\Diagnostic Application.dll.config
+G:\Diag\Diagnostic Application\bin\Diagnostic Application.dll
+G:\Diag\Diagnostic Application\bin\Diagnostic Application.pdb
+G:\Diag\Diagnostic Application\bin\itextsharp.dll
+G:\Diag\Diagnostic Application\bin\itextsharp.pdfa.dll
+G:\Diag\Diagnostic Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Diag\Diagnostic Application\bin\itextsharp.xml
+G:\Diag\Diagnostic Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Diag\Diagnostic Application\obj\Debug\Diagnostic Application.csprojResolveAssemblyReference.cache
+G:\Diag\Diagnostic Application\obj\Debug\Diagnostic Application.dll
+G:\Diag\Diagnostic Application\obj\Debug\Diagnostic Application.pdb
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\roslyn\csc.exe
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\roslyn\System.Collections.Immutable.dll
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\roslyn\System.Reflection.Metadata.dll
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\roslyn\vbc.exe
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\roslyn\VBCSCompiler.exe
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\roslyn\VBCSCompiler.exe.config
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\Diagnostic Application.dll.config
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\Diagnostic Application.dll
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\Diagnostic Application.pdb
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\itextsharp.dll
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\itextsharp.pdfa.dll
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\itextsharp.xml
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\obj\Debug\Diagnostic Application.csprojResolveAssemblyReference.cache
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\obj\Debug\Diagnostic Application.dll
+E:\7th & 8th\BITM\PUC_4D\Diag\Diagnostic Application\obj\Debug\Diagnostic Application.pdb
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\roslyn\csc.exe
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\roslyn\vbc.exe
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\Diagnostic Application.dll.config
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\Diagnostic Application.dll
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\Diagnostic Application.pdb
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\itextsharp.dll
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\itextsharp.pdfa.dll
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\itextsharp.xml
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\obj\Debug\Diagnostic Application.csprojResolveAssemblyReference.cache
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\obj\Debug\Diagnostic Application.dll
+C:\Users\Zamil\Desktop\BITM_Project\Diagnostic Application\obj\Debug\Diagnostic Application.pdb
+G:\UpdateBITM_Project\Diagnostic Application\bin\roslyn\csc.exe
+G:\UpdateBITM_Project\Diagnostic Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\UpdateBITM_Project\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\UpdateBITM_Project\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\UpdateBITM_Project\Diagnostic Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\UpdateBITM_Project\Diagnostic Application\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\UpdateBITM_Project\Diagnostic Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\UpdateBITM_Project\Diagnostic Application\bin\roslyn\System.Collections.Immutable.dll
+G:\UpdateBITM_Project\Diagnostic Application\bin\roslyn\System.Reflection.Metadata.dll
+G:\UpdateBITM_Project\Diagnostic Application\bin\roslyn\vbc.exe
+G:\UpdateBITM_Project\Diagnostic Application\bin\roslyn\VBCSCompiler.exe
+G:\UpdateBITM_Project\Diagnostic Application\bin\roslyn\VBCSCompiler.exe.config
+G:\UpdateBITM_Project\Diagnostic Application\bin\Diagnostic Application.dll.config
+G:\UpdateBITM_Project\Diagnostic Application\bin\Diagnostic Application.dll
+G:\UpdateBITM_Project\Diagnostic Application\bin\Diagnostic Application.pdb
+G:\UpdateBITM_Project\Diagnostic Application\bin\itextsharp.dll
+G:\UpdateBITM_Project\Diagnostic Application\bin\itextsharp.pdfa.dll
+G:\UpdateBITM_Project\Diagnostic Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\UpdateBITM_Project\Diagnostic Application\bin\itextsharp.xml
+G:\UpdateBITM_Project\Diagnostic Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\UpdateBITM_Project\Diagnostic Application\obj\Debug\Diagnostic Application.csprojResolveAssemblyReference.cache
+G:\UpdateBITM_Project\Diagnostic Application\obj\Debug\Diagnostic Application.dll
+G:\UpdateBITM_Project\Diagnostic Application\obj\Debug\Diagnostic Application.pdb
